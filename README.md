@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Aniket Kulkarni!
 
 I'm a Software Engineer :computer: from India. I :heart: coding. 
-Active member on [stackoverflow](https://stackoverflow.com/users/1031945/aniket-kulkarni), 
+Active member on [stackoverflow](https://stackoverflow.com/users/1031945/aniket-kulkarni)
+
 Passionate about AWS. I'm AWS Certified Developer - Associate 
-[![AWS Certified Developer - Associate](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url)](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a2ce5db-772d-492a-84f6-09b5d026bc38" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <!--
 **aniketskulkarni/aniketskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketskulkarni?style=social">
+
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketskulkarni&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketskulkarni&hide=TeX&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aniketskulkarni.aniketskulkarni)
