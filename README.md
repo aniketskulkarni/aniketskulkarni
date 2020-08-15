@@ -28,11 +28,17 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+## Social 
+
 [![Linkedin Badge](https://img.shields.io/badge/-aniketkulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-kulkarni-a1803647/)](https://www.linkedin.com/in/aniket-kulkarni-a1803647/)
+
+## Coding Platforms
+
+[![Hacker Rank](https://www.hackerrank.com/aniket16kulkarni)](https://www.hackerrank.com/aniket16kulkarni)  [![Hacker Earth](https://www.hackerearth.com/@aniket426)](https://www.hackerearth.com/@aniket426)   [![Leetcode](https://leetcode.com/aniket16kulkarni/)](https://leetcode.com/aniket16kulkarni/)
 
 ## Git Stats
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketskulkarni?style=social"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aniketskulkarni.aniketskulkarni)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketskulkarni?style=social">          ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aniketskulkarni.aniketskulkarni)
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketskulkarni&show_icons=true)
 
