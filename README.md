@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Coding Platforms
 
-[![Hacker Rank](https://www.hackerrank.com/aniket16kulkarni)](https://www.hackerrank.com/aniket16kulkarni)  [![Hacker Earth](https://www.hackerearth.com/@aniket426)](https://www.hackerearth.com/@aniket426)   [![Leetcode](https://leetcode.com/aniket16kulkarni/)](https://leetcode.com/aniket16kulkarni/)
+[![Hacker Rank](https://img.shields.io/badge/-aniket16kulkarni-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/aniket16kulkarni)](https://www.hackerrank.com/aniket16kulkarni)  [![Hacker Earth](https://img.shields.io/badge/-@aniket426-black?style=flat-square&labelColor=323754&logo=hackerearth&link=https://www.hackerearth.com/@aniket426)](https://www.hackerearth.com/@aniket426)   [![Leetcode](https://img.shields.io/badge/-aniket16kulkarni-FEA116?style=flat-square&labelColor=222222&logo=leetcode&link=https://leetcode.com/aniket16kulkarni/)](https://leetcode.com/aniket16kulkarni/)
 
 ## Git Stats
 
