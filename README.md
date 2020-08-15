@@ -30,14 +30,10 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-aniketkulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-kulkarni-a1803647/)](https://www.linkedin.com/in/aniket-kulkarni-a1803647/)
 
-##Git Stats
+## Git Stats
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketskulkarni?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketskulkarni?style=social"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aniketskulkarni.aniketskulkarni)
 
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketskulkarni&show_icons=true&hide_border=true)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketskulkarni&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketskulkarni&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aniketskulkarni.aniketskulkarni)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketskulkarni&hide=TeX&layout=full)
