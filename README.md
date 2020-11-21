@@ -3,7 +3,9 @@
 I'm a Software Engineer :computer: from India. I :heart: coding. 
 Active member on [stackoverflow](https://stackoverflow.com/users/1031945/aniket-kulkarni)
 
-Passionate about AWS. I'm [AWS Certified Developer - Associate](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url) 
+Passionate about AWS. I'm 2X AWS Certified.
+[AWS Certified Developer - Associate](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url) 
+[AWS Certified Devops Engineer Professional](https://www.youracclaim.com/badges/7442e2b5-09bc-455d-95ac-3932f0b76575/public_url)
 
 <!--
 **aniketskulkarni/aniketskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
