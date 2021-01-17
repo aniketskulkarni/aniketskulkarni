@@ -3,17 +3,18 @@
 I'm a Software Engineer :computer: from India. I :heart: coding. 
 Active member on [stackoverflow](https://stackoverflow.com/users/1031945/aniket-kulkarni)
 
-Passionate about AWS. I'm 2X AWS Certified.
+Passionate about AWS. I'm 4X AWS Certified.
 [AWS Certified Developer - Associate](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url) 
 [AWS Certified Devops Engineer Professional](https://www.youracclaim.com/badges/7442e2b5-09bc-455d-95ac-3932f0b76575/public_url)
-
+[AWS Certified SysOps Administrator – Associate](https://www.youracclaim.com/badges/f771690c-1560-4ccb-9b78-3041e629bf6a/public_url)
+[AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/01304209-1e0f-4136-8d99-08bd6d9f43b2/public_url)
 <!--
 **aniketskulkarni/aniketskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Amazon DynamoDB
-- 🌱 I’m currently learning AWS Certified Devops Professional, Python and Data Structures and Algorithms
+- 🔭 I’m currently working on writing my blog posts on https://learnwithniket.com
+- 🌱 I’m currently learning AWS Certified Advanced Networking - Specialty, Python and Data Structures and Algorithms
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-aniket16kulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniket16kulkarni@gmail.com)](mailto:aniket16kulkarni@gmail.com)
 - ⚡ Fun fact: :top: 3% contributor <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1031945?label=stackoverflow&logo=stackoverflow">
 
