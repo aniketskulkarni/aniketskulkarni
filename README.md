@@ -13,7 +13,7 @@ Passionate about AWS. I'm 4X AWS Certified.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on writing my blog posts on https://learnwithniket.com
+- 🔭 I’m currently working on writing my blog posts on https://learnwithaniket.com
 - 🌱 I’m currently learning AWS Certified Advanced Networking - Specialty, Python and Data Structures and Algorithms
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-aniket16kulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniket16kulkarni@gmail.com)](mailto:aniket16kulkarni@gmail.com)
 - ⚡ Fun fact: :top: 3% contributor <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1031945?label=stackoverflow&logo=stackoverflow">
