@@ -3,18 +3,27 @@
 I'm a Software Engineer :computer: from India. I :heart: coding. 
 Active member on [stackoverflow](https://stackoverflow.com/users/1031945/aniket-kulkarni)
 
-Passionate about AWS. I'm 4X AWS Certified.
-[AWS Certified Developer - Associate](https://www.youracclaim.com/badges/4a2ce5db-772d-492a-84f6-09b5d026bc38/public_url) 
-[AWS Certified Devops Engineer Professional](https://www.youracclaim.com/badges/7442e2b5-09bc-455d-95ac-3932f0b76575/public_url)
-[AWS Certified SysOps Administrator – Associate](https://www.youracclaim.com/badges/f771690c-1560-4ccb-9b78-3041e629bf6a/public_url)
-[AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/01304209-1e0f-4136-8d99-08bd6d9f43b2/public_url)
+Multi-cloud certified. AWS 7x, Azure 3x and Oracle 1x.
+[AWS Certified Developer - Associate](https://www.credly.com/badges/ae90f171-66b5-4812-8cf2-bf45a96bec65) 
+[AWS Certified Devops Engineer Professional](https://www.credly.com/badges/7442e2b5-09bc-455d-95ac-3932f0b76575)
+[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f771690c-1560-4ccb-9b78-3041e629bf6a)
+[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/01304209-1e0f-4136-8d99-08bd6d9f43b2)
+[AWS Certified Advanced Networking – Specialty](https://www.credly.com/badges/39c8c80e-bf1c-4415-9128-ea813d7fd7d7)
+[AWS Certified Security – Specialty](https://www.credly.com/badges/53132a8f-b035-40d5-a21d-18e6f0ee3aa7)
+[AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/7d66091f-7a73-4234-9459-822c09659f85)
+[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/4d6f8035-7efd-43fb-9661-6152d17da283)
+[Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/4c4c0956-8639-4008-8847-f7ce83a95a3e)
+[Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/5437fa35-8860-42a6-aea5-d972b889e482)
+[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/23b9fe4a-461c-4195-b712-caf18bc25d35)
+[Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=57269371D6E3EFA050EB09FF53E5C22C0510AA5923B7DCA7B673DD36582EBF2B)
+
 <!--
 **aniketskulkarni/aniketskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on writing my blog posts on https://learnwithaniket.com
-- 🌱 I’m currently learning AWS Certified Advanced Networking - Specialty, Python and Data Structures and Algorithms
+- 🌱 I’m currently learning Go lang, Data Structures and Algorithms
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-aniket16kulkarni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniket16kulkarni@gmail.com)](mailto:aniket16kulkarni@gmail.com)
 - ⚡ Fun fact: :top: 3% contributor <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1031945?label=stackoverflow&logo=stackoverflow">
 
